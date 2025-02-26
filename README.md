@@ -13,13 +13,20 @@ Financial Records: Maintain accurate payment records for transaction tracking an
 Database Design Approach:
 The database will be designed using Google Sheets for ease of access and collaboration. It will consist of the following key tables:
 
-# Customers.csv – Stores customer details such as name, contact information, location, and purchase history.
-# Products.csv – Contains product details, including product names, descriptions, categories, pricing, and stock levels.
-# Orders.csv – Logs all sales transactions, including order dates, customer IDs, and total order values.
-# Order_Details.csv – Breaks down individual items in each order, linking products to specific sales transactions.
-# Payments.csv – Tracks payment methods, amounts, and transaction statuses.
-# Suppliers.csv – Stores details about product suppliers, including company name, contact details, and supply agreements.
-# Inventory.csv – Maintains stock levels, reorder thresholds, and supplier restock schedules.
+# Customers.csv –
+Stores customer details such as name, contact information, location, and purchase history.
+# Products.csv – 
+Contains product details, including product names, descriptions, categories, pricing, and stock levels.
+# Orders.csv – 
+Logs all sales transactions, including order dates, customer IDs, and total order values.
+# Order_Details.csv – 
+Breaks down individual items in each order, linking products to specific sales transactions.
+# Payments.csv – 
+Tracks payment methods, amounts, and transaction statuses.
+# Suppliers.csv – 
+Stores details about product suppliers, including company name, contact details, and supply agreements.
+# Inventory.csv – 
+Maintains stock levels, reorder thresholds, and supplier restock schedules.
 
 # Next Steps:
 The first phase of the project involves designing and structuring these tables to ensure data accuracy, integrity, and ease of use. Once completed, the database will enable Unleash to streamline operations, enhance decision-making, and optimize business performance.
